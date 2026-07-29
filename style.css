@@ -285,3 +285,14 @@ footer{
     text-align:center;
     padding:30px;
 }
+.ofertas{
+    display:flex;
+    justify-content:center;
+    gap:40px;
+    flex-wrap:wrap;
+}
+
+.ofertas > div{
+    width:340px;
+    text-align:center;
+}
